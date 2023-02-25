@@ -1,5 +1,6 @@
 import random
 
+
 n = random.randint(1, 3)
 
 if n == 1:
